@@ -8,9 +8,10 @@ Routes.
 This is my documentation of Express and how to use it.
 
   Use with 
-    *  middleware
-    *  connect
-    *  stylus
-    *  ejs
-That was suppose to be a list
-Markdown I love you, but I need to learn your syntax better    
+    -  middleware
+    -  connect
+    -  stylus
+    -  ejs
+
+> That was suppose to be a list
+> Markdown I love you, but I need to learn your syntax better    
