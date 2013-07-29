@@ -32,9 +32,9 @@ So you can see exactly what you get.
 
 > this is an example of one of the express examples.
 
-> tell me what you think is going on?
+> Not much going on
 
-		var express = require('express');
+	var express = require('express');
       
       var app = express();
 
