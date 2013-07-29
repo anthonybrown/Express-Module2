@@ -8,7 +8,7 @@ Routes.
 This is my documentation of Express and how to use it.
 
   Use with 
-    *   middleware
-    *   connect
-    *   stylus
-    *   ejs
+    *  middleware
+    *  connect
+    *  stylus
+    
