@@ -49,4 +49,5 @@ So you can see exactly what you get.
 And just like that we have beautiful code in our markdown file without 
 
 any fuse, it's a snap to add code blocks and anything else you would do
+
 with HTML except without all the ugliness and boilerplate. 
