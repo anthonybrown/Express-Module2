@@ -7,34 +7,15 @@ Routes.
 
 This is my documentation of Express and how to use it.
 
-Use with 
-  -    connect
-  -    stylus
-  -    ejs
-  -    node
-
-
-> That was suppose to be a list
-> 
-> Markdown I love you, but I need to learn your syntax better
-
-Markdown is really much nicer to work with if you use moo.
-
-Moo spits out the markup in almost real time.
-
-So you can see exactly what you get.
-
 ##Nice ! 
-
-** Anyways we always going to use markdown when we can! **
 
 > Lets add a code block in markdown?
 
 > this is an example of one of the express examples.
 
-> Not much going on
+> Not much going on just getting the inner working of Express
 
-	var express = require('express');
+	 var express = require('express');
       
       var app = express();
 
@@ -46,8 +27,3 @@ So you can see exactly what you get.
     
       app.listen(3000);
 
-And just like that we have beautiful code in our markdown file without 
-
-any fuse, it's a snap to add code blocks and anything else you would do
-
-with HTML except without all the ugliness and boilerplate. 
