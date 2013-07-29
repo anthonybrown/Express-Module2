@@ -15,4 +15,41 @@ Use with
 
 
 > That was suppose to be a list
-> Markdown I love you, but I need to learn your syntax better    
+> 
+> Markdown I love you, but I need to learn your syntax better
+
+Markdown is really much nicer to work with if you use moo.
+
+Moo spits out the markup in almost real time.
+
+So you can see exactly what you get.
+
+##Nice ! 
+
+** Anyways we always going to use markdown when we can! **
+
+> Lets add a code block in markdown?
+
+> this is an example of one of the express examples.
+
+> tell me what you think is going on?
+
+		  var express = require('express');
+      
+      var app = express();
+
+      app.configure( function () {
+        app.use(express.logger('dev'));
+        app.use(express.favicon());
+        app.use(express.static(_dirname + '/public'));
+      });
+    
+      app.listen(3000);
+
+
+
+
+
+
+
+       
